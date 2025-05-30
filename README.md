@@ -126,9 +126,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📫 Contact
-
-[@0xnomy](https://twitter.com/0xnomy)
-
-Project Link: [https://github.com/0xnomy/ec2-dockerized-flask-api](https://github.com/0xnomy/ec2-dockerized-flask-api)
-
